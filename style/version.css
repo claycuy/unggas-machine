@@ -1,0 +1,49 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+}
+
+.navbar {
+  background-color: #29ca04;
+  color: #fff;
+  padding: 10px;
+  text-align: none;
+}
+
+#homeLink {
+  display: flex;
+  align-items: left;
+  justify-content: left;
+}
+
+#homeLink span {
+  font-size: 1em;
+  margin: 0;
+}
+
+h1 {
+  font-size: 2em;
+  margin: 0;
+  text-align: center;
+}
+
+.menu {
+  text-align: center;
+  margin-top: 20px;
+}
+
+button {
+  padding: 10px;
+  font-size: 1em;
+  margin: 5px;
+  background-color: #29ca04;
+  border: 1px solid #29ca04;
+  border-radius: 5px;
+  color: #fff;
+  width: 150px; /* Sesuaikan ukuran sesuai kebutuhan */
+}
+
+button:hover {
+  background-color: white;
+  color: #29ca04;
+}
