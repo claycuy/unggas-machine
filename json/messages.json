@@ -1,0 +1,150 @@
+{
+  "sapaan": {
+    "match": ["halo", "hai", "selamat pagi", "selamat siang", "selamat malam"],
+    "response": ["Halo! Apa yang bisa saya bantu?", "Hi! Senang bertemu denganmu.", "Salam! Apa yang bisa saya lakukan untukmu hari ini?"]
+  },
+  "bagaimana kabarmu": {
+    "match": ["bagaimana kabarmu", "apa kabarmu"],
+    "response": ["Saya baik-baik saja, terima kasih sudah bertanya. Bagaimana kabarmu?"]
+  },
+    "growtopia": {
+    "match": ["informasi growtopia", "game Growtopia"],
+    "response": ["Growtopia adalah permainan sandbox multipemain di mana pemain dapat membuat dunia, melakukan perdagangan barang, dan berkolaborasi dalam berbagai kegiatan. Dikembangkan oleh Ubisoft dan dirilis pada tahun 2013."]
+  },
+  "minecraft": {
+    "match": ["informasi minecraft", "game Minecraft"],
+    "response": ["Minecraft adalah permainan sandbox populer yang dikenal karena eksplorasi dunia terbuka, membangun, dan aspek survivalnya. Dikembangkan oleh Mojang dan dirilis pada tahun 2011."]
+  },
+  "roblox": {
+    "match": ["informasi roblox", "game Roblox"],
+    "response": ["Roblox adalah platform permainan online dan sistem kreasi permainan yang memungkinkan pengguna mendesain dan memainkan permainan yang dibuat oleh pengguna lain. Dikembangkan oleh Roblox Corporation dan dirilis pada tahun 2006."]
+  },
+  "growtopia_platforms": {
+    "match": ["platforms growtopia", "platform growtopia", "dimana bisa bermain growtopia"],
+    "response": ["Growtopia dapat dimainkan di platform PC dan mobile."]
+  },
+  "minecraft_survival_mode": {
+    "match": ["mode survival minecraft", "aspek survival minecraft"],
+    "response": ["Mode survival Minecraft menekankan aspek bertahan hidup di dunia terbuka, termasuk mencari sumber daya dan melawan monster."]
+  },
+  "roblox_game_creation": {
+    "match": ["pembuatan permainan roblox", "sistem kreasi roblox"],
+    "response": ["Roblox menyediakan sistem kreasi permainan yang memungkinkan pengguna untuk membuat dan membagikan permainan mereka sendiri."]
+  },
+  "growtopia_collaboration": {
+    "match": ["kolaborasi di growtopia", "fitur berkolaborasi growtopia"],
+    "response": ["Dalam Growtopia, pemain dapat berkolaborasi untuk membangun dan mengembangkan dunia bersama-sama."]
+  },
+  "minecraft_console_platforms": {
+    "match": ["platforms console minecraft", "main minecraft di konsol"],
+    "response": ["Minecraft dapat dimainkan di platform konsol seperti Xbox, PlayStation, dan Nintendo Switch."]
+  },
+  "roblox_community": {
+    "match": ["komunitas roblox", "roblox community"],
+    "response": ["Roblox memiliki komunitas yang besar, di mana pengguna dapat berinteraksi, berbagi, dan mendukung karya-karya kreatif mereka."]
+  },
+  "growtopia_items": {
+    "match": ["barang di growtopia", "item growtopia"],
+    "response": ["Growtopia memiliki berbagai barang dan item yang dapat diperdagangkan antar pemain."]
+  },
+  "minecraft_modding": {
+    "match": ["modding minecraft", "menggunakan mod di minecraft"],
+    "response": ["Pemain Minecraft dapat menggunakan mod untuk menambahkan fitur dan konten kustom ke dalam permainan."]
+  },
+  "roblox_avatars": {
+    "match": ["avatar di roblox", "penampilan karakter roblox"],
+    "response": ["Pemain Roblox dapat mengubah penampilan karakter mereka dengan berbagai item dan pakaian yang tersedia."]
+  },
+  "growtopia_worlds": {
+    "match": ["dunia di growtopia", "membuat dunia growtopia"],
+    "response": ["Pemain Growtopia dapat membuat dan membagikan dunia mereka sendiri, menambah keunikan dan kreativitas dalam setiap pembangunan."]
+  },
+  "minecraft_redstone": {
+    "match": ["redstone minecraft", "mekanisme redstone"],
+    "response": ["Redstone dalam Minecraft memungkinkan pemain untuk membuat berbagai mekanisme, dari pintu otomatis hingga perangkat elektronik yang rumit."]
+  },
+  "roblox_devex": {
+    "match": ["DevEx di roblox", "mendapatkan uang dari roblox"],
+    "response": ["DevEx (Developer Exchange) di Roblox memungkinkan pengembang untuk menukarkan Robux dengan uang sungguhan."]
+  },
+  "growtopia_events": {
+    "match": ["event di growtopia", "kegiatan growtopia"],
+    "response": ["Growtopia sering mengadakan berbagai acara dan kegiatan khusus yang melibatkan seluruh komunitas pemain."]
+  },
+  "minecraft_biomes": {
+    "match": ["biome minecraft", "jenis tanah minecraft"],
+    "response": ["Minecraft memiliki berbagai bioma dengan karakteristik unik, seperti hutan, gurun, dan pegunungan."]
+  },
+  "roblox_imagination": {
+    "match": ["imajinasi di roblox", "menggunakan imajinasi di roblox"],
+    "response": ["Roblox mendorong pemain untuk menggunakan imajinasi mereka dengan memberikan alat kreatif untuk merancang pengalaman bermain."]
+  },
+  "growtopia_farming": {
+    "match": ["pertanian di growtopia", "berkebun growtopia"],
+    "response": ["Pemain Growtopia dapat berkebun dan menanam tanaman untuk menghasilkan barang yang berguna dalam permainan."]
+  },
+  "minecraft_nether": {
+    "match": ["nether minecraft", "eksplorasi nether"],
+    "response": ["Nether dalam Minecraft adalah dimensi alternatif dengan lingkungan yang berbahaya dan sumber daya unik."]
+  },
+  "roblox_platforms": {
+    "match": ["platforms roblox", "roblox platform", "dimana bisa bermain roblox"],
+    "response": ["Roblox dapat dimainkan di platform PC dan mobile."]
+  },
+  "minecraft_creative_mode": {
+    "match": ["mode kreatif minecraft", "aspek kreatif minecraft"],
+    "response": ["Mode kreatif Minecraft memungkinkan pemain untuk bebas membangun tanpa batasan sumber daya dan tanpa adanya bahaya dari monster."]
+  },
+  "growtopia_locks": {
+    "match": ["kunci di growtopia", "fitur kunci growtopia"],
+    "response": ["Growtopia memiliki sistem kunci yang memungkinkan pemain mengamankan barang-barang dan dunia mereka dari akses yang tidak diinginkan."]
+  },
+  "minecraft_biome-specific_mobs": {
+    "match": ["makhluk biome khusus minecraft", "monster biome-specific minecraft"],
+    "response": ["Beberapa biome di Minecraft memiliki monster khusus yang sesuai dengan lingkungan mereka, menambah tingkat tantangan untuk pemain."]
+  },
+  "roblox_premium": {
+    "match": ["roblox premium", "keanggotaan premium roblox"],
+    "response": ["Roblox Premium adalah keanggotaan berlangganan yang memberikan berbagai manfaat, termasuk akses ke Robux bulanan."]
+  },
+  "growtopia_anomalies": {
+    "match": ["anomali di growtopia", "fenomena aneh growtopia"],
+    "response": ["Growtopia kadang-kadang menghadirkan anomali atau fenomena aneh yang dapat memengaruhi dunia permainan secara unik."]
+  },
+  "minecraft_end_dimension": {
+    "match": ["dimensi End minecraft", "eksplorasi dimensi End"],
+    "response": ["Dimensi End dalam Minecraft adalah tempat di mana pemain dapat menemukan Ender Dragon, bos utama dalam permainan."]
+  },
+  "roblox_UGC": {
+    "match": ["UGC di roblox", "konten pengguna roblox"],
+    "response": ["User-Generated Content (UGC) di Roblox mencakup berbagai item, pakaian, dan permainan yang dibuat oleh komunitas pengguna."]
+  },
+  "growtopia_minigames": {
+    "match": ["minigames di growtopia", "permainan mini growtopia"],
+    "response": ["Growtopia menyediakan berbagai minigames yang dapat dimainkan pemain untuk mendapatkan hadiah dan hiburan tambahan."]
+  },
+  "minecraft_minecart_systems": {
+    "match": ["sistem kereta tambang minecraft", "menggunakan minecart di minecraft"],
+    "response": ["Pemain Minecraft dapat membuat sistem kereta tambang yang kompleks untuk transportasi cepat dan efisien."]
+  },
+  "roblox_sponsored_items": {
+    "match": ["barang sponsor di roblox", "sponsorship item roblox"],
+    "response": ["Beberapa item di Roblox dapat diperoleh melalui sponsor atau promosi khusus dalam permainan."]
+  },
+  "growtopia_quest_system": {
+    "match": ["sistem quest di growtopia", "menyelesaikan quest growtopia"],
+    "response": ["Growtopia memiliki sistem quest yang memungkinkan pemain menyelesaikan misi untuk mendapatkan hadiah dan pencapaian."]
+  },
+  
+  "aiInformation": {
+    "match": ["info", "informasi", "information"],
+    "response": ["{(nama: ${systemName})}"]
+  },
+  
+  "kosong": {
+    "match": [" ", ""],
+    "response": ["error, unknown text.", "sorry unknown text, please check your text!"]
+  },
+  
+  "default": "Maaf, saya belum mengerti. Bisakah kamu ulangi?"
+}
