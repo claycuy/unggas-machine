@@ -13,9 +13,9 @@ let buttonRunning;
 
                 // Tambahkan kode atau panggil fungsi lain yang ingin dijalankan sekali setelah beberapa waktu di sini
                 element.style.color = 'black';
-                //element.style.backgroundColor = '';
+                element.style.backgroundColor = '';
                 element.style = 'background-color: rgba(255, 255, 255, 0.0'
-                //elementBtn1.style.color = 'white';
+                elementBtn1.style.color = 'white';
                 elementBtn1.style.backgroundColor = '#29ca04';
                 elementBtn1.style.border = ' rgba(255, 255, 255, 0.0';
                 elementBtn2.style.color = 'white';
