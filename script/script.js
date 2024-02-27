@@ -15,7 +15,7 @@ let buttonRunning;
                 element.style.color = 'black';
                 //element.style.backgroundColor = '';
                 element.style = 'background-color: rgba(255, 255, 255, 0.0'
-                elementBtn1.style.color = 'white';
+                //elementBtn1.style.color = 'white';
                 elementBtn1.style.backgroundColor = '#29ca04';
                 elementBtn1.style.border = ' rgba(255, 255, 255, 0.0';
                 elementBtn2.style.color = 'white';
